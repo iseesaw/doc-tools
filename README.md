@@ -114,7 +114,7 @@
 - [Jekyll](https://jekyllrb.com/docs/)
 
 
-      - 运行命令
+    - 运行命令
 
         ```bash
         jekyll new jekyll-project
